@@ -60,7 +60,7 @@ export default function AllergyGenerator() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-3">
-              <Heart className="text-primary text-2xl" />
+              {/* <Heart className="text-primary text-2xl" /> */}
               <h1 className="text-xl font-semibold text-gray-900">Allergy Report Generator</h1>
             </div>
             <div className="flex items-center space-x-4">
